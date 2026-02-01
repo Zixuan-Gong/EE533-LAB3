@@ -1,0 +1,5 @@
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/Desktop/lab3_final/reg9B.sch" reg9B.vf
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/Desktop/lab3_final/reg9B.sch" reg9B.vf
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/Desktop/lab3_final/reg9B.sch" reg9B.vf
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/Desktop/lab3_final/reg9B.sch" reg9B.vf
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/Desktop/lab3_final/reg9B.sch" reg9B.vf
